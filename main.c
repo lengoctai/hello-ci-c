@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int main(void) {
+void print_message(void) {
     printf("Hello, CI with GitHub Actions!\n");
-    return 0;
 }
